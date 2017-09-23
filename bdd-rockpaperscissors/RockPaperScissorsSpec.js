@@ -36,8 +36,7 @@ describe('RockPaperScissors', function() {
     expect(res).toBe(player1 + ' vs ' + player2 + ' => ' + solutions[player1.toLowerCase() + '_' + player2.toLowerCase()] + '!');
   });
 
-  it('should thow Error because no player 1 defined.', function() {
-
+  it('should throw Error because no player 1 is defined.', function() {
     var res = rockPaperScissors.play();
 
     expect(res).toThrowError('No player 1 is defined!');
