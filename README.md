@@ -7,10 +7,10 @@
 Introducción al BDD con Jasmine con dos pequeños challenges :-)
 
 1.- Challenge 1: [[enlace]][challenge1]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion1]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion1].
 
 2.- Challenge 2: [[enlace]][challenge2]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion2]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion2].
 
 [challenge1]: https://github.com/juanmaguitar/exercises-katas-js/blob/master/DrinkAbout/README.md
 [challenge2]: https://github.com/juanmaguitar/exercises-katas-js/blob/master/RockPaperScissors/README.md
