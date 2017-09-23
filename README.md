@@ -4,6 +4,8 @@
 
 ### BDD ~ Behavior Driven Development
 
+Introducción al BDD con Jasmine con dos pequeños challenges :-)
+
 1.- Challenge 1: [[enlace]][challenge1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solución: [enlace](https://mtzfactory.github.io/bdd-jasmine/bdd-drinkabout.html)
 
