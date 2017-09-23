@@ -37,9 +37,9 @@ describe('RockPaperScissors', function() {
   });
 
   it('should throw Error because no player 1 is defined.', function() {
-    var res = rockPaperScissors.play();
-
-    expect(res).toThrowError('No player 1 is defined!');
+    var func = rockPaperScissors.play;
+    
+    expect(func).toThrowError('No player 1 is defined!');
   });
 
 });
