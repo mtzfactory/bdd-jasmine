@@ -8,6 +8,7 @@ Introducción al BDD con Jasmine con dos pequeños challenges :-)
 
 1.- Challenge 1: [[enlace]][challenge1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion1]
+
 2.- Challenge 2: [[enlace]][challenge2]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion2]
 
