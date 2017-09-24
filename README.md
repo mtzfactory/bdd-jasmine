@@ -4,18 +4,18 @@
 
 ### BDD ~ Behavior Driven Development
 
-Introducción al BDD con Jasmine con dos pequeños challenges :-)
+Introducción al BDD con Jasmine, que mejor que unos pequeños retos :-)
 
-1.- Challenge 1: drink about, [[enlace]][challenge1]<br>
+1.- Reto 1: drink about, [[enlace]][challenge1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion1].
 
-2.- Challenge 2: rock paper scissors, [[enlace]][challenge2]<br>
+2.- Reto 2: rock paper scissors, [[enlace]][challenge2]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion2].
 
-2.- Challenge 3: fizz buzz, [[enlace]][challenge3]<br>
+2.- Reto 3: fizz buzz, [[enlace]][challenge3]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion3].
 
-2.- Challenge 4: grade book, [[enlace]][challenge4]<br>
+2.- Reto 4: grade book, [[enlace]][challenge4]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la solución la puedes ver en este [enlace][solucion4].
 
 [challenge1]: https://github.com/juanmaguitar/exercises-katas-js/blob/master/DrinkAbout/README.md
