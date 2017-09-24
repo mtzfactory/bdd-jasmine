@@ -3,33 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <title>Drink About</title>  
-  <link rel="shortcut icon" type="image/png" href="jasmine-2.8.0/jasmine_favicon.png">
-  <link rel="stylesheet" href="jasmine-2.8.0/jasmine.css">
+  
+  <link rel="shortcut icon" type="image/png" href="lib/jasmine-2.8.0/jasmine_favicon.png">
+  <link rel="stylesheet" href="lib/jasmine-2.8.0/jasmine.css">
 
-  <script src="jasmine-2.8.0/jasmine.js"></script>
-  <script src="jasmine-2.8.0/jasmine-html.js"></script>
-  <script src="jasmine-2.8.0/boot.js"></script>
+  <script src="lib/jasmine-2.8.0/jasmine.js"></script>
+  <script src="lib/jasmine-2.8.0/jasmine-html.js"></script>
+  <script src="lib/jasmine-2.8.0/boot.js"></script>
 
+  <!-- include source files here... -->
   <script type="text/javascript" src="lib/getRandomInt.js"></script>
-  <script type="text/javascript" src="bdd-drinkabout/DrinkAboutSpec.js"></script>
-</head>
-  <script type="text/javascript">
-    // https://github.com/juanmaguitar/exercises-katas-js/blob/master/DrinkAbout/README.md
-    function DrinkAbout() {
-    }
+  <script type="text/javascript" src="bdd-drinkabout/src/DrinkAbout.js"></script>
 
-    DrinkAbout.prototype.whatCanIDrink = function(age) {
-      var drink = 'drink ';
-      switch (true) {
-        case age < 14: drink += 'toddy'; break;
-        case age < 18: drink += 'coke'; break;
-        case age < 21: drink += 'beer'; break;
-        //case age >= 21: drink += 'whisky'; break;
-        default: drink += 'whisky';
-      }
-      return drink;
-    }
-  </script>
+  <!-- include spec files here... -->
+  <script type="text/javascript" src="bdd-drinkabout/spec/DrinkAboutSpec.js"></script>
+</head>
 <body>
   
 </body>
