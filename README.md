@@ -4,8 +4,6 @@
 ![html-5](https://mtzfactory.github.io/logos/png/html-5.png)
 ![css-3](https://mtzfactory.github.io/logos/png/css-3.png)
 
-## Full Stack Web Development Bootcamp @Otoño2017
-
 ### BDD ~ Behavior Driven Development
 
 Introducción al BDD con Jasmine, que mejor que unos pequeños retos :-)
@@ -30,3 +28,5 @@ Introducción al BDD con Jasmine, que mejor que unos pequeños retos :-)
 [solucion2]: https://mtzfactory.github.io/bdd-jasmine/bdd-rockpaperscissors.html
 [solucion3]: https://mtzfactory.github.io/bdd-jasmine/bdd-fizzbuzz.html
 [solucion4]: https://mtzfactory.github.io/bdd-jasmine/bdd-gradebook.html
+
+#### SkylabCoders Academy - Full Stack Web Development Bootcamp
