@@ -1,4 +1,8 @@
-[![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-56.png)](http://www.skylabcoders.com/)
+[![Skylab-coders](https://mtzfactory.github.io/logos/png/skylab-coders.png)](http://www.skylabcoders.com/)
+![js](https://mtzfactory.github.io/logos/png/javascript.png)
+![jasmine](https://mtzfactory.github.io/logos/png/jasmine.png)
+![html-5](https://mtzfactory.github.io/logos/png/html-5.png)
+![css-3](https://mtzfactory.github.io/logos/png/css-3.png)
 
 ## Full Stack Web Development Bootcamp @Otoño2017
 
